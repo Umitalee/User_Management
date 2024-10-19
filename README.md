@@ -26,16 +26,16 @@ This is a React application that integrates with the Reqres API for basic user m
 
 1. Clone the repository:
    
-git clone https://github.com/Umitalee/User_Management.git
-cd User_Management
+   git clone https://github.com/Umitalee/User_Management.git
+   cd User_Management
 
 2. Install dependencies:
    
-npm install
+   npm install
 
 3. Start the application:
 
-npm start
+   npm start
 
 Open your web browser and navigate to http://localhost:3000.
 
